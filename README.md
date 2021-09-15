@@ -1,2 +1,2 @@
-# g-essentials
-This is my new README file
+# GIT Essentials / Git for everybody
+> This course is teach me Git 
